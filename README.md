@@ -26,7 +26,7 @@ npm start
 
 ## EndPoints for both metaData and DNStxt.
 
-Endpoints as as follows
+Endpoints are as follows:
 
 1.To get all metaData.
 ```
