@@ -1,5 +1,5 @@
 
-# domain-tools-api
+# DoTo (Domains-Tool-api)
 ![alt text](https://domains-tools.herokuapp.com/images/logo.jpg?raw=true "Title")
 
 **An API to handle all the metadata and DNS txt Record of your websites from one place.**
