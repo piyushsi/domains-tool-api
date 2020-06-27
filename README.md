@@ -44,7 +44,7 @@ e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io/description
 ```
 https://domains-tools.herokuapp.com/api/dnstxt/url/data
 e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io/google-site-verification=OAURofBkdHU86nkfS9V5O0uYKtgP4p2d1jzRmpaIYQE
-``
+```
 
 ## Stack/Library/Module Used
 ```
