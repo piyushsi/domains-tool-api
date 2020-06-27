@@ -8,7 +8,7 @@ router.get('/:url', function (req, res, next) {
 			return res.text();
 		})
 		.then((text) => {
-			var title = text.includes('title')
+			var title = text.includes('<title>')
 				? { title: text.split('<title>')[1].split('</title>')[0] }
 				: { title: 'N/A' };
 
