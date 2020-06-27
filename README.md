@@ -10,7 +10,7 @@
 - Install [nodejs](https://nodejs.org/) if you haven't already done so. I recommend the LTS version.
 - Download/Clone this repository
 ``` 
-$ git clone git@github.com:piyushsi/domain-tools-api.git
+$ git clone git@github.com:piyushsi/domains-tool-api.git
 ```
 - Install the dependencies
 
