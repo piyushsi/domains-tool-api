@@ -28,26 +28,26 @@ npm start
 
 Endpoints are as follows:
 
-1.To get all metaData.
+1. Get all metaData.
 ```
 https://domains-tools.herokuapp.com/api/meta/url
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io
 ```
-2.To get all DNStxt.
+2. Get all DNStxt.
 ```
 https://domains-tools.herokuapp.com/api/dnstxt/url
 e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io
 ```
-3.To validate by meta name.
+3. Validate by meta name.
 ```
 https://domains-tools.herokuapp.com/api/meta/url/name
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io/description
 ```
 
-4.To validate by DNStxt data.
+4. Validate by DNStxt data.
 ```
 https://domains-tools.herokuapp.com/api/dnstxt/url/data
-e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io/google-site-verification=OAURofBkdHU86nkfS9V5O0uYKtgP4p2d1jzRmpaIYQE
+e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io/google-site-verification
 ```
 
 ## Stack/Library/Module Used
@@ -56,7 +56,9 @@ Express
 ```
 
 ```
-"metagetall": "1.1.4" (https://github.com/piyushsi/metagetall)
+"metagetall": "1.1.4" 
+increase my stars here: [![Github stars](https://img.shields.io/github/stars/piyushsi/metagetall.svg?style=social&label=Star)](https://github.com/piyushsi/metagetall)
+
 ```
 
 

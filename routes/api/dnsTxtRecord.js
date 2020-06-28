@@ -21,7 +21,11 @@ router.get('/:url/:txt', function (req, res, next) {
 					return a[0];
 			  })
 			: 'No Record Found';
-		res.json({ validate: txtRecord.includes(txt), txt: txtRecord });
+		var validate = txtRecord.map((a) => {
+			return a.split('=')[0];
+		});
+
+		res.json({ validate: validate.includes(txt), txt: txtRecord });
 	});
 });
 
