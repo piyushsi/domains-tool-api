@@ -57,8 +57,13 @@ Express
 
 ```
 "metagetall": "1.1.4" 
-increase my stars here: [![Github stars](https://img.shields.io/github/stars/piyushsi/metagetall.svg?style=social&label=Star)](https://github.com/piyushsi/metagetall)
 
 ```
 
 
+## metagetall
+
+A Node.js module to fetch HTML meta tags and custom meta tags from a remote URL.
+Increase my stars for metagetall module here:
+
+[![Github stars](https://img.shields.io/github/stars/piyushsi/metagetall.svg?style=social&label=Star)](https://github.com/piyushsi/metagetall)
