@@ -56,7 +56,7 @@ Express
 ```
 
 ```
-"metagetall": "1.1.4" 
+"metagetall": "1.1.4"  (My own Module:Description below)
 ```
 
 
