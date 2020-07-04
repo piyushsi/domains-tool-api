@@ -37,7 +37,7 @@ e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io
 https://domains-tools.herokuapp.com/api/meta/url
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io
 ```
-output:
+Response object:
 ```
 {
 "charset": "utf-8",
@@ -64,7 +64,7 @@ output:
 https://domains-tools.herokuapp.com/api/dnstxt/url
 e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io
 ```
-output:
+Response object:
 ```
 {
 "txt": [
@@ -78,7 +78,7 @@ output:
 https://domains-tools.herokuapp.com/api/meta/url/name
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io/description
 ``` 
-output : 
+Response object : 
 ```
 {
 "validate": true,
@@ -90,7 +90,7 @@ Validate by custom meta name.
 https://domains-tools.herokuapp.com/api/meta/url/name
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io/og:title
 ```
-output:
+Response object:
 ```
 {
 "validate": true,
@@ -103,7 +103,7 @@ output:
 https://domains-tools.herokuapp.com/api/dnstxt/url/data
 e.g. https://domains-tools.herokuapp.com/api/dnstxt/altcampus.io/google-site-verification
 ```
-output:
+Response object:
 ```
 {
 "validate": true,
