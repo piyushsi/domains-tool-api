@@ -85,7 +85,7 @@ Response object :
 "description": "AltCampus is a 6 month intensive program that helps you learn full-stack web development. A Programming bootcamp in India. No upfront payment."
 }
 ```
-Validate by custom meta name.
+3. Validate by custom meta name.
 ```
 https://domains-tools.herokuapp.com/api/meta/url/name
 e.g. https://domains-tools.herokuapp.com/api/meta/altcampus.io/og:title
